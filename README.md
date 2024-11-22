@@ -47,18 +47,18 @@ The layout provides comprehensive multi-language support:
     -   Hyphen (-)
 -   Thumbcluster configuration:
     -   Left thumb:
-        -   Space (tap) / Layer 6 modifier (hold)
+        -   Space (tap) / [Layer 6](#6-layer-6---uppercase-colemak-dh) modifier (hold)
         -   Tab
         -   Alt modifier
-        -   One-Shot Layer 2 modifier (temporary layer activation)
-        -   Layer 4 modifier
+        -   One-Shot [Layer 2](#2-layer-2---numpad-and-navigation) modifier
+        -   [Layer 4](#4-layer-4---diacritics-with-acute-and-grave-accent) modifier
     -   Right thumb:
         -   Enter
-        -   Backspace (tap) / Layer 6 modifier (hold)
+        -   Backspace (tap) / [Layer 6](#6-layer-6---uppercase-colemak-dh) modifier (hold)
         -   Delete
-        -   Layer 3 modifier
-        -   Layer 5 modifier
-        -   Layer 9 modifier
+        -   [Layer 3](#3-layer-3---f-keys-and-special-characters) modifier
+        -   [Layer 5](#5-layer-5---diacritics-with-other-accents) modifier
+        -   [Layer 9](#9-layer-9---mouse-function-and-number-row) modifier
 
 ### 2. Layer 2 - Numpad and navigation
 
@@ -87,12 +87,12 @@ The layout provides comprehensive multi-language support:
 -   Thumbcluster configuration:
     -   Left thumb:
         -   Most keys are transparent, maintaining their Layer 1 functions
-        -   Layer 6 modifier's dual function is replaced by Shift's dual function
-        -   One-Shot Layer 2 modifier position is transparent to enable One-Shot functionality
-        -   Layer 4 modifier is removed as it does not make sense in a numpad layout
+        -   [Layer 6](#6-layer-6---uppercase-colemak-dh) modifier's dual function is replaced by Shift's dual function
+        -   One-Shot [Layer 2](#2-layer-2---numpad-and-navigation) modifier position is transparent to enable One-Shot functionality
+        -   [Layer 4](#4-layer-4---diacritics-with-acute-and-grave-accent) modifier is removed as it does not make sense in a numpad layout
     -   Right thumb:
         -   Most keys are transparent, maintaining their Layer 1 functions
-        -   Layer 6 modifier's dual function is replaced by Shift's dual function
+        -   [Layer 6](#6-layer-6---uppercase-colemak-dh) modifier's dual function is replaced by Shift's dual function
 
 ### 3. Layer 3 - F-keys and Special characters
 
@@ -109,7 +109,7 @@ The layout provides comprehensive multi-language support:
     -   Intuitive left-right pairing for easier typing
     -   Located on homerow for maximum efficiency
 -   Thumbcluster configuration:
-    -   Maintains transparent functionality from Layer 2 (numpad and navigation)
+    -   Maintains transparent functionality from [Layer 2](#2-layer-2---numpad-and-navigation) (numpad and navigation)
     -   All modifier keys and special functions remain consistent
     -   Seamless transition between layers while maintaining thumb controls
 
@@ -127,8 +127,8 @@ The layout provides comprehensive multi-language support:
 -   Thumbcluster configuration:
     -   Does not use standard modifier keys
     -   Only allow for Space, Backspace, and Enter
-    -   Layer 5 modifier for other diacritics
-    -   Layer 7 modifier for upper case letters
+    -   [Layer 5](#5-layer-5---diacritics-with-other-accents) modifier for other diacritics
+    -   [Layer 7](#7-layer-7---uppercase-diacritics-with-acute-and-grave-accents) modifier for upper case letters
 
 ### 5. Layer 5 - Diacritics with other accents
 
@@ -148,10 +148,10 @@ The layout provides comprehensive multi-language support:
 -   Portuguese letter ç is treated as umlaut and is placed on the left side of Colemak-DH position
     -   ç
 -   Thumbcluster configuration:
-    -   Similar to Layer 4 - minimal modifiers
+    -   Similar to [Layer 4](#4-layer-4---diacritics-with-acute-and-grave-accent) - minimal modifiers
     -   Space, Backspace, and Enter retained
-    -   Layer 4 modifier for acute/grave accents
-    -   Layer 8 modifier for uppercase variants
+    -   [Layer 4](#4-layer-4---diacritics-with-acute-and-grave-accent) modifier for acute/grave accents
+    -   [Layer 8](#8-layer-8---uppercase-diacritics-with-other-accents) modifier for uppercase variants
 
 ### 6. Layer 6 - Uppercase Colemak-DH
 
@@ -165,20 +165,20 @@ The layout provides comprehensive multi-language support:
     -   Underscore (\_)
 -   Shifted function of arrow keys
 -   Thumbcluster configuration:
-    -   Based on Layer 1 thumbcluster configuration
-    -   Adds shift modifier to Space, Tab, Enter, Backspace and Delete
+    -   Based on [Layer 1](#1-layer-1---colemak-dh) thumbcluster configuration
+    -   Adds shift modifier to Space, Tab, Enter, Backspace, and Delete
 
 ### 7. Layer 7 - Uppercase diacritics with acute and grave accents
 
 ![Layer 7 - Uppercase diacritics with acute and grave accents](L7.png)
 
--   Capitalized characters from Layer 4
+-   Capitalized characters from [Layer 4](#4-layer-4---diacritics-with-acute-and-grave-accent)
 
 ### 8. Layer 8 - Uppercase diacritics with other accents
 
 ![Layer 8 - Uppercase diacritics with other accents](L8.png)
 
--   Capitalized characters from Layer 5
+-   Capitalized characters from [Layer 5](#5-layer-5---diacritics-with-other-accents)
 
 ### 9. Layer 9 - Mouse function and number row
 
