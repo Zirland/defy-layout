@@ -103,6 +103,7 @@ The layout provides comprehensive multi-language support:
     -   Yellow keys mirror the symbols from shifted standard number row
     -   Repositioned for optimal four-finger operation
     -   More ergonomic access compared to reaching for the number row
+    -   Euro (€) symbol addition is a necessary and logical step for someone living in Europe.
 -   Parentheses on homerow:
     -   Opening parentheses (, [, {, < positioned on the left side
     -   Closing parentheses ), ], }, > positioned on the right side
